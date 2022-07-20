@@ -35,15 +35,3 @@ module.exports = {
 		"./src/components/**/*.{js,ts,jsx,tsx}",
 	],
 ```
-
-```TS
-
-```
-
-```TS
-
-```
-
-```TS
-
-```
