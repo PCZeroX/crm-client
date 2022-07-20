@@ -16,7 +16,7 @@ const Navbar = () => {
 				<nav className="flex justify-between items-center xl:mx-0 mx-4 h-14">
 					<Link href="/">
 						<a>
-							<Image src="/vercel-white.svg" width={128} height={32} />
+							<Image src="/vercel-white.svg" width={128} height={32} alt="Vercel" />
 						</a>
 					</Link>
 					<menu>

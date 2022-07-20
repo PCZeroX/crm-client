@@ -14,7 +14,6 @@ export default function Home() {
 
 			<>
 				<p className=" text-center py-8">Bienvenido al Index Page</p>
-				<p className=" text-center py-8">No hay token registrado</p>
 			</>
 		</div>
 	);
