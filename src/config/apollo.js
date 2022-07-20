@@ -4,7 +4,7 @@ const cache = new InMemoryCache();
 
 const link = new HttpLink({
 	uri: "http://localhost:4000",
-	credentials: "include",
+	credentials: true,
 });
 
 const client = new ApolloClient({
